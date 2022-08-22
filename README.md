@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fathir-achmad
 - 👀 I’m interested in Engineering, Front end and Data analytics
-- 🌱 I’m currently learning Front end and Data
+- 🌱 I’m currently learning Full stack developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me fathir17.fa@gmail.com
 
 <!---
 Fathir-achmad/Fathir-achmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
