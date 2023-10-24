@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fathir-achmad
-- 👀 I’m interested in Engineering and IT development
+- 👀 I’m interested in Electrical engineering and Full stack development
 - 🌱 I’m currently learning Full stack developer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fathir17.fa@gmail.com
 
 <!---
